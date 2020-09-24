@@ -31,9 +31,9 @@ To publish the final submission, do this:
     Add the generated file to the repo
     Add a link to your demo in index.html e.g. - <a href="example.html">example</a>
     Commit and push to master
-    Hard reload the index page at https://mnamonick.github.io/js1k/
+    Hard reload the index page at https://hapticake.github.io/js1k/
     Click your link and check that it runs.
-    You can also visit your demo at https://mnamonick.github.io/js1k/example.html
+    You can also visit your demo at https://hapticake.github.io/js1k/example.html
 
 It can take a few minutes for github/CDN to refresh changes if you are modifying an existing page.
 
