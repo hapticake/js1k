@@ -44,7 +44,7 @@ the make demo script without consultation.
 
 The generated pages can easily be run locally from your own disk.
 
-There are online tools available for crushing javascript, such as
+There are online tools available for crushing javascript, such as:
 
         http://www.iteral.com/jscrush/
 
