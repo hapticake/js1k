@@ -41,6 +41,8 @@ function render()
     next = (cur+1) % 2;
     d = lerp(arr[cur], arr[next], (ctr%1000) / 1000);
 
+    c.clearRect(0,0,600,600);
+
     for (i = 0; i < d.length; i += 8)
     {
         c.fillStyle = tocolor(d[i+4], d[i+5], d[i+6], d[i+7]);
