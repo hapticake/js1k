@@ -1,0 +1,1 @@
+_='a.wid=a.height=960,=240,=-,	Xcoscos	Yss00func i(t){begPa(mov+lstroke(requestAnimaFrame(i)}();adius*Ma.(/*i)+480=200random()+40,rDiffdistanceerReta	get),eTo(x,yin=(i=>y=	Y((i)+n=.05,x=	X(thc.tionout';for(Y in $='	')with(_.split($[Y]))_=join(pop());eval(_)
